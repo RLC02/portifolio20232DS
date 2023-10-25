@@ -16,11 +16,14 @@ Olá! Bem-vindo ao meu repositório que documenta minha jornada no curso técnic
 O curso AMS na ETEC Zona Leste é uma oportunidade única para adquirir habilidades práticas e teóricas essenciais no desenvolvimento de sistemas. Durante este percurso, explorei uma variedade de tecnologias e conceitos fundamentais, preparando-me para desafios do mundo real.
 
 <br></br>
-## Projeto Criação de Website
-
-### Projeto : Persona pizza https://github.com/P4BLOll/Persona-Pizza
-
+## Projeto de Criação de Website
+<div align="center">
 <br></br>
+
+### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> Persona pizza </a> 
+</div>
+<br></br>
+
 ## Contato
 <div align="center"> 
 Ficarei feliz em receber feedback ou responder a qualquer pergunta sobre os projetos e aprendizados apresentados aqui. Você pode me contatar através do 
