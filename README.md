@@ -1,7 +1,7 @@
 
 <div align="center">
-<img width="100" src="https://media.canva.com/1/image-resize/1/200_200_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9wM0dmRS9NQUZ4a05wM0dmRS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAFdE0z9sqzc46H9qt8MqSPhsLwf_KunoRWrsR5CCc8Uo&exp=1698219137&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAADqPbuFThmxJtHsm5UcRVthc0KL1NkvozoEewC-KAH2v">
-<img width="100" src="https://media.canva.com/1/image-resize/1/182_115_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9pNGptRS9NQUZ4a0VpNGptRS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAHm4J0dYeSrLg3OcuYDNti39Ks0FpqTfQGu7j52sBNJo&exp=1698221154&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAITrDRJwpLkbVbYD9AAbKkGfDlNg-JJpdqtsyccUXdV2"> 
+<img width="100" src="https://www.securitylinkindia.com/files/2019/12/ibm-logo.gif">
+<img width="100" src="https://i.postimg.cc/3JbrSHWX/etec-ra-metropolitana-sp-capital-da-zona-leste-cidade-a-e-carvalho-cor.png"> 
 </div>
 <br></br>
 <div align="center"> 
