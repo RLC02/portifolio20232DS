@@ -20,7 +20,7 @@ O curso AMS na ETEC Zona Leste é uma oportunidade única para adquirir habilida
 <div align="center">
 <br></br>
 
-### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> Persona pizza </a> 
+### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> PersonaPizza </a> 
 </div>
 <br></br>
 
@@ -29,7 +29,7 @@ O curso AMS na ETEC Zona Leste é uma oportunidade única para adquirir habilida
 Ficarei feliz em receber feedback ou responder a qualquer pergunta sobre os projetos e aprendizados apresentados aqui. Você pode me contatar através do 
 
   
-  <a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 Obrigado por explorar meu portfólio!  
 
